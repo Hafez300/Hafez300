@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hafez300
+- 👋 Hi, I’m Ziad Wael Hafez
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full Stack Web Development Using PHP.
 - 📫 To reach me: Send me An Email to: ziadwhafez@gmail.com 
